@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">empcode</Data></Cell>
+			<Cell><Data ss:Type="String">empname</Data></Cell>
+			<Cell><Data ss:Type="String">empage</Data></Cell>
+			<Cell><Data ss:Type="String">esalary</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">101</Data></Cell>
+			<Cell><Data ss:Type="String">Jenny</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">10000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">102</Data></Cell>
+			<Cell><Data ss:Type="String">Jacky</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">20000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">103</Data></Cell>
+			<Cell><Data ss:Type="String">Joe</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">40000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">104</Data></Cell>
+			<Cell><Data ss:Type="String">John</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">80000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">105</Data></Cell>
+			<Cell><Data ss:Type="String">Shame</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">90000.00</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
